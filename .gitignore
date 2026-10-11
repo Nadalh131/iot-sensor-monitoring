@@ -1,0 +1,10 @@
+.env
+.venv/
+.venv313/
+.venv315/
+__pycache__/
+*.pyc
+*.db
+sensor_data.csv
+sensor_data_clean.csv
+project.zip
